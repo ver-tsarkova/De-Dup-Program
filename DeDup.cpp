@@ -1,5 +1,4 @@
 /* 
-Student ID: @00194989
 Filename: DeDup.cpp
 Assignment: HW12: De-Dup            
 Description: A program that removes duplicates from an array.  
